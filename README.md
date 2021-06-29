@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A new Flutter project!
 
 This is a kind of "Hello World" in Flutter
 
